@@ -29,9 +29,9 @@ This project detects image splicing forgeries using MATLAB. It employs four key 
 3. Visual output will be displayed and forgery detection results shown.
 
 ## 👨‍💻 Contributors
+- S. Venkata Ramana
 - S. Nayab Rasool
 - J. Sandeep Kumar
-- S. Venkata Ramana
 - Y. Sai Narasimha Reddy
 - K. Vinay Kumar Reddy
 
