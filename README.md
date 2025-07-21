@@ -1,7 +1,7 @@
 
 # Image Forgery Detection Using MATLAB
 
-This project detects image splicing forgeries using MATLAB. It employs four key feature extraction techniques (Fractal Entropy, LBP, Skewness, Kurtosis), followed by SVM classification to distinguish between authentic and tampered images.
+This project detects image splicing forgeries using MATLAB. It employs four key feature extraction techniques Fractal Entropy(FrEp), Local Binary pattern(LBP), Skewness, Kurtosis), followed by SVM classification to distinguish between authentic and tampered images.
 
 ## 🧠 Core Idea
 - Convert input image to YCbCr color space
@@ -28,13 +28,4 @@ This project detects image splicing forgeries using MATLAB. It employs four key 
    ```
 3. Visual output will be displayed and forgery detection results shown.
 
-## 👨‍💻 Contributors
-- S. Venkata Ramana
-- S. Nayab Rasool
-- J. Sandeep Kumar
-- Y. Sai Narasimha Reddy
-- K. Vinay Kumar Reddy
 
-Under the guidance of Mr. M. Sreenivasulu, Asst. Professor, Dept. of ECE, VITS
-
----
