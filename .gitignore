@@ -1,0 +1,10 @@
+
+*.asv
+*.autosave
+*.bak
+*.fig
+*.log
+*.mat
+*.tmp
+.DS_Store
+Thumbs.db
